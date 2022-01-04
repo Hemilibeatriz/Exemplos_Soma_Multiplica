@@ -1,0 +1,1 @@
+Exemplo de código para fazer a soma e a multiplicação de dois vetores em Python(um sem a utilização de bibliotecas auxiliares e o outro utilizando a bblioteca numpy e a função numpy.dot)
